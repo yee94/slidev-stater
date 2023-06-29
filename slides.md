@@ -11,8 +11,9 @@ lineNumbers: false
 # persist drawings in exports and build
 drawings:
   persist: false
-# use UnoCSS
-css: unocss
+fonts:
+  sans: "Alibaba PuHuiTi 2.0, Robot"
+  local: "Alibaba PuHuiTi 2.0"
 layout: intro
 ---
 
